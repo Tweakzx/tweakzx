@@ -2,19 +2,19 @@
 
 ### Hi there 👋
 
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=sqrthree&show_icons=true&hide_title=true">
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=tweakzx&show_icons=true&hide_title=true">
 
 This is the place where I opensource stuff and break things :rofl:
 
-- 🔭 I’m currently working on something cool :wink:
-- 🌱 I’m currently playing Go, Docker & GraphQL
-- 💬 Ask me about anything related to Javascript / Typescript / Node.js
-- 📫 How to reach me: [@sqrtthree](mailto:imsqrtthree@gmail.com)
+- 🔭 I’m want to work on something cool :wink:
+- 🌱 I’m currently playing Go, Docker & Kubernetes
+- 💬 Talk with me about K8s GPU Cluster, Notion, Obsidian, I want to learn more
+- 📫 How to reach me: [@tweakzx](mailto:tweakzx@foxmail.com)
 
 &nbsp;&nbsp;
-[Twitter](https://twitter.com/sqrtthree) •
-[Blog](https://blog.sqrtthree.com)
+[Leetcode-Daily](https://twitter.com/sqrtthree) •
+[Tweakzx Blog](https://tweakzx.github.io)
 
-<img width="100%" src="https://github.com/sqrthree/sqrthree/blob/output/github-contribution-grid-snake.svg">
+<img width="100%" src="https://github.com/tweakzx/tweakzx/blob/output/github-contribution-grid-snake.svg">
 
-![](https://skillicons.dev/icons?i=js,ts,react,vue,nextjs,nuxtjs,gatsby,wasm,nodejs,go,git,docker,kubernetes,figma)
+![](https://skillicons.dev/icons?i=go,git,docker,kubernetes,notion,obsidian)
