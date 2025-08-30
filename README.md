@@ -9,9 +9,9 @@ This is the place where I opensource stuff and break things :rofl:
 
 - 🔭 I’m want to work on something cool :wink:
 - 🌱 I’m currently playing Go, Docker & Kubernetes
-- 💬 Talk with me about K8s GPU Cluster, Notion, Obsidian
+- 💬 Talk with me about K8s GPU/NPU Cluster, GPU/NPU virtualization
 - 🎈 I love cycling, swimming, running when I'm not busy
-- 📫 How to reach me: [@tweakzx](mailto:tweakzx@foxmail.com)
+- 📫 How to reach me: [@tweakzx](mailto:tweakzx@qq.com)
 
 &nbsp;&nbsp;
 [Leetcode-Daily](https://lc.tweakzx.fun/) •
